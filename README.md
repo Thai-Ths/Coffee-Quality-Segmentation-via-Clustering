@@ -27,7 +27,7 @@ This project applies unsupervised machine learning to analyze and segment coffee
 
 4. **Clustering:**  
    - Apply KMeans clustering to segment coffees by quality profile.
-   - Determine optimal cluster count using the elbow method and silhouette score.
+   - Determine optimal cluster count using the elbow method.
    - Visualize and interpret cluster assignments.
 
 5. **Insights & Conclusions:**  
