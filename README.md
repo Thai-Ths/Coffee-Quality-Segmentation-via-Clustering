@@ -40,12 +40,3 @@ This project applies unsupervised machine learning to analyze and segment coffee
 
 - The clustering analysis identified distinct groups of coffees with meaningful differences in overall quality and sensory scores.
 - Principal Component Analysis (PCA) and feature importance evaluation provided further validation and interpretability of clusters.
-
----
-
-## How to Run
-
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
